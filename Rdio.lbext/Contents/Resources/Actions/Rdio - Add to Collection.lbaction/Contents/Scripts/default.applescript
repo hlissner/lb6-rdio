@@ -1,0 +1,1 @@
+tell application "Rdio" to add to collection

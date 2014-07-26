@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Rdio for LaunchBar</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Henrik Lissner</string>
+		<key>LBSummary</key>
+		<string>Actions for controlling the Rdio desktop app and searching for artists, albums and tracks in their library.</string>
+		<key>LBWebsite</key>
+		<string>http://github.com/hlissner/lb6-rdio</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+{
+	"predef": [
+		"include"
+	],
+
+	"globals": {
+		"LaunchBar": true,
+		"include": true
+	}
+}
