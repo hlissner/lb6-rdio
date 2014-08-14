@@ -1,4 +1,4 @@
-# Rdio
+# Rdio controls for Launchbar
 
 Inspired by the
 [Rdio alfred workflow](http://dferg.us/rdio-workflow-for-alfred-2/), and modeled
@@ -16,8 +16,9 @@ Planned features:
 
 ## Installation
 
-Download ZIP and run the file!
+[Download the ZIP](https://github.com/hlissner/lb6-rdio/archive/master.zip) and run the file!
 
 ## Requirements
 
 * The Rdio app
+* [Launchbar](http://www.obdev.at/products/launchbar/index.html)
