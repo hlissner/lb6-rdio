@@ -1,4 +1,4 @@
-# Rdio
+# Rdio controls for Launchbar
 
 Inspired by the
 [Rdio alfred workflow](http://dferg.us/rdio-workflow-for-alfred-2/), and modeled
@@ -13,7 +13,7 @@ like the built-in iTunes actions with the following actions:
 
 ## Installation
 
-Download ZIP and run the file!
+[Download the ZIP](https://github.com/hlissner/lb6-rdio/archive/master.zip) and run the file!
 
 ## Troubleshooting
 
@@ -27,3 +27,4 @@ call limit. If search is acting slow for you (or gives out entirely):
 ## Requirements
 
 * The Rdio app
+* [Launchbar](http://www.obdev.at/products/launchbar/index.html)
