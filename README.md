@@ -9,14 +9,20 @@ like the built-in iTunes actions with the following actions:
 * Stop
 * Next/Previous Song
 * Add to Collection
-
-Planned features:
-
-* Search Rdio
+* Search Rdio (by [nanovid](http://nanovivid.com/))
 
 ## Installation
 
 Download ZIP and run the file!
+
+## Troubleshooting
+
+By default, the action uses my Rdio API key, which has a 10-per-second and 15k-per-day
+call limit. If search is acting slow for you (or gives out entirely):
+
+1. Register an account at http://rdio.mashery.com/ and generate an API key.
+2. Substitute your api key for mine in `~/Library/Application Support/LaunchBar/Action
+   Support/io.henrik.launchbar.Rdio/Preferences.plist`.
 
 ## Requirements
 

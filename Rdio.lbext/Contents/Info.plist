@@ -9,7 +9,7 @@
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
-		<string>Henrik Lissner</string>
+		<string>Henrik Lissner &amp; nanovivid</string>
 		<key>LBSummary</key>
 		<string>Actions for controlling the Rdio desktop app and searching for artists, albums and tracks in their library.</string>
 		<key>LBWebsite</key>
