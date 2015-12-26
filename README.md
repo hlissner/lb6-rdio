@@ -1,5 +1,7 @@
 # Rdio controls for Launchbar
 
+> Note: Rdio is shutting down, so this plugin is now defunct.
+
 Inspired by the
 [Rdio alfred workflow](http://dferg.us/rdio-workflow-for-alfred-2/), and modeled
 like the built-in iTunes actions with the following actions:
